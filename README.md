@@ -1,4 +1,4 @@
-# Monte--Carlo-Simulation
+
 # Monte Carlo Stock Price Simulation
 
 ![Example Simulation Plot](images/price_paths.png)  
