@@ -1,7 +1,7 @@
 
 # Monte Carlo Stock Price Simulation
 
-![Example Simulation Plot](images/price_paths.png)  
+![Example Simulation Plot](Simulation.png)  
 *Example of 20 simulated stock price paths*
 
 ## 📌 Overview
